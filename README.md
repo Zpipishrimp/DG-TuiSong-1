@@ -1,3 +1,7 @@
+# 致谢
+作者：ccwav  
+  
+[原链接](https://github.com/ccwav/QLScript2)
 # QLScript_New
 
 青龙拉库命令:
